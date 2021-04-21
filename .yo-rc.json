@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Matteo Fogli",
+      "authorEmail": "matteo@modo.md",
+      "authorUrl": "https://modo.md"
+    }
+  }
+}
